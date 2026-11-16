@@ -52,3 +52,19 @@ The database architecture is structured using MongoDB to handle flexible query a
 
 ## Conclusion & Key Takeaways
 The SIBA Digital Academic Support Platform (SDASP) successfully demonstrates how modern cloud architecture, strict role-based access control, and intelligent AI orchestration can modernize traditional academic resources. By utilizing a hybrid AI + Human-in-the-loop validation layer, the system maximizes efficiency without sacrificing academic integrity or accuracy.
+
+## Repository Structure
+
+This repository contains the architectural documentation
+and technical design resources for SDASP.
+
+## Project Objectives
+
+- Centralize academic support resources.
+- Improve response accessibility for students.
+- Combine AI assistance with human moderation.
+- Maintain a reusable knowledge base of verified answers.
+
+## Contributors
+
+Developed as an academic project at Sukkur IBA University.
